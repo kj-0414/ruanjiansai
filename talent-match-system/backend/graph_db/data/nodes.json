@@ -1,0 +1,442 @@
+{
+  "user_1_root": {
+    "type": "root",
+    "name": "人才能力",
+    "user_id": 1
+  },
+  "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_root": {
+    "type": "root",
+    "name": "人才能力",
+    "user_id": "2f7bacda-e6b5-430b-8ee6-72303efeacff"
+  },
+  "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_0_0": {
+    "type": "ability",
+    "name": "专业技能",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "user_id": "2f7bacda-e6b5-430b-8ee6-72303efeacff"
+  },
+  "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_1_0": {
+    "type": "ability",
+    "name": "基础技能",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "user_id": "2f7bacda-e6b5-430b-8ee6-72303efeacff"
+  },
+  "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_1_1": {
+    "type": "ability",
+    "name": "学习能力",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "user_id": "2f7bacda-e6b5-430b-8ee6-72303efeacff"
+  },
+  "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_1_2": {
+    "type": "ability",
+    "name": "沟通能力",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "user_id": "2f7bacda-e6b5-430b-8ee6-72303efeacff"
+  },
+  "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_0_1": {
+    "type": "ability",
+    "name": "通用能力",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "user_id": "2f7bacda-e6b5-430b-8ee6-72303efeacff"
+  },
+  "job_1_root": {
+    "type": "root",
+    "name": "岗位需求",
+    "job_id": 1
+  },
+  "job_1_node_0_0": {
+    "type": "requirement",
+    "name": "学历背景",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 1
+  },
+  "job_1_node_1_0": {
+    "type": "requirement",
+    "name": "学历要求: 本科及以上",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 1
+  },
+  "job_1_node_0_1": {
+    "type": "requirement",
+    "name": "专业技能",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 1
+  },
+  "job_1_node_1_1": {
+    "type": "requirement",
+    "name": "后端开发: Node.js, Python",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 1
+  },
+  "job_1_node_1_2": {
+    "type": "requirement",
+    "name": "数据库: MySQL, MongoDB",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 1
+  },
+  "job_1_node_1_3": {
+    "type": "requirement",
+    "name": "工具: Git, Webpack",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 1
+  },
+  "job_1_node_0_2": {
+    "type": "requirement",
+    "name": "证书",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 1
+  },
+  "job_1_node_0_3": {
+    "type": "requirement",
+    "name": "工作经历",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 1
+  },
+  "job_1_node_0_4": {
+    "type": "requirement",
+    "name": "项目经历",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 1
+  },
+  "job_2_root": {
+    "type": "root",
+    "name": "岗位需求",
+    "job_id": 2
+  },
+  "job_2_node_0_0": {
+    "type": "requirement",
+    "name": "学历背景",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 2
+  },
+  "job_2_node_1_0": {
+    "type": "requirement",
+    "name": "学历要求: 本科",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 2
+  },
+  "job_2_node_0_1": {
+    "type": "requirement",
+    "name": "专业技能",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 2
+  },
+  "job_2_node_1_1": {
+    "type": "requirement",
+    "name": "后端开发: Node.js, Python",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 2
+  },
+  "job_2_node_1_2": {
+    "type": "requirement",
+    "name": "数据库: MySQL, MongoDB",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 2
+  },
+  "job_2_node_1_3": {
+    "type": "requirement",
+    "name": "工具: Git, Webpack",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 2
+  },
+  "job_2_node_0_2": {
+    "type": "requirement",
+    "name": "证书",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 2
+  },
+  "job_2_node_0_3": {
+    "type": "requirement",
+    "name": "工作经历",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 2
+  },
+  "job_2_node_0_4": {
+    "type": "requirement",
+    "name": "项目经历",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 2
+  },
+  "job_8_root": {
+    "type": "root",
+    "name": "岗位需求",
+    "job_id": 8
+  },
+  "job_8_node_0_0": {
+    "type": "requirement",
+    "name": "学历背景",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 8
+  },
+  "job_8_node_1_0": {
+    "type": "requirement",
+    "name": "学历要求: 本科",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 8
+  },
+  "job_8_node_0_1": {
+    "type": "requirement",
+    "name": "专业技能",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 8
+  },
+  "job_8_node_1_1": {
+    "type": "requirement",
+    "name": "后端开发: Node.js, Python",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 8
+  },
+  "job_8_node_1_2": {
+    "type": "requirement",
+    "name": "数据库: MySQL, MongoDB",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 8
+  },
+  "job_8_node_1_3": {
+    "type": "requirement",
+    "name": "工具: Git, Webpack",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 8
+  },
+  "job_8_node_0_2": {
+    "type": "requirement",
+    "name": "证书",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 8
+  },
+  "job_8_node_0_3": {
+    "type": "requirement",
+    "name": "工作经历",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 8
+  },
+  "job_8_node_0_4": {
+    "type": "requirement",
+    "name": "项目经历",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 8
+  },
+  "job_11_root": {
+    "type": "root",
+    "name": "岗位需求",
+    "job_id": 11
+  },
+  "job_11_node_0_0": {
+    "type": "requirement",
+    "name": "学历背景",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 11
+  },
+  "job_11_node_1_0": {
+    "type": "requirement",
+    "name": "学历要求: 本科",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 11
+  },
+  "job_11_node_0_1": {
+    "type": "requirement",
+    "name": "专业技能",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 11
+  },
+  "job_11_node_1_1": {
+    "type": "requirement",
+    "name": "后端开发: Node.js, Python",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 11
+  },
+  "job_11_node_1_2": {
+    "type": "requirement",
+    "name": "数据库: MySQL, MongoDB",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 11
+  },
+  "job_11_node_1_3": {
+    "type": "requirement",
+    "name": "工具: Git, Webpack",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 11
+  },
+  "job_11_node_0_2": {
+    "type": "requirement",
+    "name": "证书",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 11
+  },
+  "job_11_node_0_3": {
+    "type": "requirement",
+    "name": "工作经历",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 11
+  },
+  "job_11_node_0_4": {
+    "type": "requirement",
+    "name": "项目经历",
+    "level": "",
+    "weight": 1.0,
+    "score": 0,
+    "match_status": "",
+    "source": "AI分析",
+    "job_id": 11
+  }
+}

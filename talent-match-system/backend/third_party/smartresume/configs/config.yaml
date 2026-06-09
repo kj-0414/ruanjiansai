@@ -1,0 +1,62 @@
+# SmartResume配置文件
+# 使用项目现有的通义千问API
+
+model:
+  name: qwen-turbo
+  api_url: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+  api_key: ${DASHSCOPE_API_KEY}
+  max_tokens: 2000
+  temperature: 0.7
+  top_p: 0.8
+  seed: 42
+
+# 启用的渠道
+channels:
+  basic_info:
+    name: qwen-turbo
+    api_url: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+    api_key: ${DASHSCOPE_API_KEY}
+    max_tokens: 2000
+    temperature: 0.7
+    top_p: 0.8
+    seed: 42
+
+  work_experience:
+    name: qwen-turbo
+    api_url: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+    api_key: ${DASHSCOPE_API_KEY}
+    max_tokens: 2000
+    temperature: 0.7
+    top_p: 0.8
+    seed: 42
+
+  education:
+    name: qwen-turbo
+    api_url: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+    api_key: ${DASHSCOPE_API_KEY}
+    max_tokens: 2000
+    temperature: 0.7
+    top_p: 0.8
+    seed: 42
+
+# 信息提取渠道映射
+extract_channels:
+  basic_info: basic_info
+  work_experience: work_experience
+  education: education
+
+# 处理配置
+processing:
+  use_force_ocr: false
+  use_force_json: true
+  use_pdf_raw_text: true
+  page_limit: 10
+
+# OCR配置
+ocr:
+  enabled: true
+  use_cuda: false
+
+# 版面检测配置
+layout_detection:
+  enabled: false

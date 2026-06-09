@@ -1,0 +1,328 @@
+{
+  "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_root": [
+    {
+      "target": "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_0_0",
+      "type": "has_ability"
+    },
+    {
+      "target": "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_0_1",
+      "type": "has_ability"
+    }
+  ],
+  "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_0_0": [
+    {
+      "target": "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_1_0",
+      "type": "has_ability"
+    },
+    {
+      "target": "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_1_1",
+      "type": "has_ability"
+    },
+    {
+      "target": "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_1_2",
+      "type": "has_ability"
+    }
+  ],
+  "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_0_1": [
+    {
+      "target": "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_1_0",
+      "type": "has_ability"
+    },
+    {
+      "target": "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_1_1",
+      "type": "has_ability"
+    },
+    {
+      "target": "user_2f7bacda-e6b5-430b-8ee6-72303efeacff_node_1_2",
+      "type": "has_ability"
+    }
+  ],
+  "job_1_root": [
+    {
+      "target": "job_1_node_0_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_1_node_0_1",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_1_node_0_2",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_1_node_0_3",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_1_node_0_4",
+      "type": "has_requirement"
+    }
+  ],
+  "job_1_node_0_0": [
+    {
+      "target": "job_1_node_1_0",
+      "type": "has_requirement"
+    }
+  ],
+  "job_1_node_0_1": [
+    {
+      "target": "job_1_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_1_node_1_1",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_1_node_1_2",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_1_node_1_3",
+      "type": "has_requirement"
+    }
+  ],
+  "job_1_node_0_2": [
+    {
+      "target": "job_1_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_1_node_1_1",
+      "type": "has_requirement"
+    }
+  ],
+  "job_1_node_0_3": [
+    {
+      "target": "job_1_node_1_0",
+      "type": "has_requirement"
+    }
+  ],
+  "job_1_node_0_4": [
+    {
+      "target": "job_1_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_1_node_1_1",
+      "type": "has_requirement"
+    }
+  ],
+  "job_2_root": [
+    {
+      "target": "job_2_node_0_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_2_node_0_1",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_2_node_0_2",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_2_node_0_3",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_2_node_0_4",
+      "type": "has_requirement"
+    }
+  ],
+  "job_2_node_0_0": [
+    {
+      "target": "job_2_node_1_0",
+      "type": "has_requirement"
+    }
+  ],
+  "job_2_node_0_1": [
+    {
+      "target": "job_2_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_2_node_1_1",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_2_node_1_2",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_2_node_1_3",
+      "type": "has_requirement"
+    }
+  ],
+  "job_2_node_0_2": [
+    {
+      "target": "job_2_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_2_node_1_1",
+      "type": "has_requirement"
+    }
+  ],
+  "job_2_node_0_3": [
+    {
+      "target": "job_2_node_1_0",
+      "type": "has_requirement"
+    }
+  ],
+  "job_2_node_0_4": [
+    {
+      "target": "job_2_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_2_node_1_1",
+      "type": "has_requirement"
+    }
+  ],
+  "job_8_root": [
+    {
+      "target": "job_8_node_0_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_8_node_0_1",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_8_node_0_2",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_8_node_0_3",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_8_node_0_4",
+      "type": "has_requirement"
+    }
+  ],
+  "job_8_node_0_0": [
+    {
+      "target": "job_8_node_1_0",
+      "type": "has_requirement"
+    }
+  ],
+  "job_8_node_0_1": [
+    {
+      "target": "job_8_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_8_node_1_1",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_8_node_1_2",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_8_node_1_3",
+      "type": "has_requirement"
+    }
+  ],
+  "job_8_node_0_2": [
+    {
+      "target": "job_8_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_8_node_1_1",
+      "type": "has_requirement"
+    }
+  ],
+  "job_8_node_0_3": [
+    {
+      "target": "job_8_node_1_0",
+      "type": "has_requirement"
+    }
+  ],
+  "job_8_node_0_4": [
+    {
+      "target": "job_8_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_8_node_1_1",
+      "type": "has_requirement"
+    }
+  ],
+  "job_11_root": [
+    {
+      "target": "job_11_node_0_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_11_node_0_1",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_11_node_0_2",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_11_node_0_3",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_11_node_0_4",
+      "type": "has_requirement"
+    }
+  ],
+  "job_11_node_0_0": [
+    {
+      "target": "job_11_node_1_0",
+      "type": "has_requirement"
+    }
+  ],
+  "job_11_node_0_1": [
+    {
+      "target": "job_11_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_11_node_1_1",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_11_node_1_2",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_11_node_1_3",
+      "type": "has_requirement"
+    }
+  ],
+  "job_11_node_0_2": [
+    {
+      "target": "job_11_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_11_node_1_1",
+      "type": "has_requirement"
+    }
+  ],
+  "job_11_node_0_3": [
+    {
+      "target": "job_11_node_1_0",
+      "type": "has_requirement"
+    }
+  ],
+  "job_11_node_0_4": [
+    {
+      "target": "job_11_node_1_0",
+      "type": "has_requirement"
+    },
+    {
+      "target": "job_11_node_1_1",
+      "type": "has_requirement"
+    }
+  ]
+}

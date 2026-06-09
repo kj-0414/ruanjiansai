@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-jose
+passlib
+python-multipart
+python-docx
+PyPDF2
+dashscope
+tiktoken
+chromadb
+sentence-transformers
+transformers
+torch
+accelerate

@@ -1,0 +1,20 @@
+{
+  "dataset_name": "Job-SDF",
+  "source": "https://github.com/Job-SDF/benchmark",
+  "description": "Job Skill Demand Forecasting dataset",
+  "time_span": "2021-01 to 2023-12",
+  "total_skills": 2335,
+  "granularities": {
+    "r0": "L1-Occupation",
+    "r1": "L2-Occupation",
+    "company": "Company",
+    "region": "Region"
+  },
+  "recommended_weights": {
+    "skills": 0.55,
+    "experience": 0.2,
+    "education": 0.15,
+    "certificates": 0.05,
+    "location": 0.05
+  }
+}

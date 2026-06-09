@@ -1,0 +1,460 @@
+{
+  "nodes": [
+    {
+      "id": "49376619-b68b-4d5c-b307-6a9b69c21ffa",
+      "type": "root",
+      "properties": {
+        "name": "求职者能力图谱",
+        "resume_id": "1",
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.686855"
+    },
+    {
+      "id": "650bce5c-1e37-49cb-9057-43b9734f0116",
+      "type": "skill_category",
+      "properties": {
+        "name": "技能",
+        "weight": 0.4,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.688361"
+    },
+    {
+      "id": "85851c4e-3d65-4e43-a05e-566afc9005f7",
+      "type": "skill_category",
+      "properties": {
+        "name": "编程语言",
+        "weight": 0.13333333333333333,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.716780"
+    },
+    {
+      "id": "654bd3cc-7bf6-46a5-bf26-6be52d6463c1",
+      "type": "skill",
+      "properties": {
+        "name": "Python",
+        "score": 85,
+        "proficiency": "高级",
+        "weight": 0.06666666666666667,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.718794"
+    },
+    {
+      "id": "96c8dd56-61cb-4113-8c54-2b3e557e2158",
+      "type": "skill",
+      "properties": {
+        "name": "Java",
+        "score": 75,
+        "proficiency": "中级",
+        "weight": 0.06666666666666667,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.719786"
+    },
+    {
+      "id": "5eebc065-2f7b-4a29-8058-b3c941b097c8",
+      "type": "skill_category",
+      "properties": {
+        "name": "数据库",
+        "weight": 0.13333333333333333,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.722786"
+    },
+    {
+      "id": "1d03d62c-a6e9-498f-80cc-dad49acae7ac",
+      "type": "skill",
+      "properties": {
+        "name": "MySQL",
+        "score": 70,
+        "proficiency": "中级",
+        "weight": 0.13333333333333333,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.724807"
+    },
+    {
+      "id": "5a533e4d-d3e6-4c8f-bfb0-573a524430a0",
+      "type": "skill_category",
+      "properties": {
+        "name": "开发工具",
+        "weight": 0.13333333333333333,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.725804"
+    },
+    {
+      "id": "12b5745d-ba99-49c4-9452-d68408fbdd76",
+      "type": "skill",
+      "properties": {
+        "name": "Docker",
+        "score": 65,
+        "proficiency": "初级",
+        "weight": 0.13333333333333333,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.733943"
+    },
+    {
+      "id": "7f9a3041-20b6-47a1-805c-ceae8a10bc5a",
+      "type": "education",
+      "properties": {
+        "name": "本科",
+        "score": 75,
+        "weight": 0.15,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.736943"
+    },
+    {
+      "id": "d57097db-1658-4279-8c7f-8ffd49fbde7e",
+      "type": "experience",
+      "properties": {
+        "name": "工作经验",
+        "years": 3.0,
+        "score": 85,
+        "weight": 0.2,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.738942"
+    },
+    {
+      "id": "e49f54ae-300a-4c7c-a680-220ef6ee1d3e",
+      "type": "skill_category",
+      "properties": {
+        "name": "项目经验",
+        "weight": 0.15,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.741380"
+    },
+    {
+      "id": "09889d66-8269-4f59-94a6-a4d91d235bf8",
+      "type": "project",
+      "properties": {
+        "name": "Web开发项目",
+        "description": "基于Django的Web应用",
+        "score": 80,
+        "weight": 0.15,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.745003"
+    },
+    {
+      "id": "cef4944a-d64b-4e99-8337-3ed7bef0cd2d",
+      "type": "skill_category",
+      "properties": {
+        "name": "语言能力",
+        "weight": 0.1,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.747010"
+    },
+    {
+      "id": "eaf2e178-eac0-4b56-af7c-d9cda053f5b9",
+      "type": "language",
+      "properties": {
+        "name": "英语",
+        "proficiency": "良好",
+        "score": 75,
+        "weight": 0.1,
+        "source": "resume"
+      },
+      "created_at": "2026-04-23T22:56:51.750309"
+    },
+    {
+      "id": "0ca24430-8e7a-4451-bae6-295ecd577a64",
+      "type": "root",
+      "properties": {
+        "name": "岗位需求图谱",
+        "job_id": "1",
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.752316"
+    },
+    {
+      "id": "cc2a6bb8-c58c-4607-bf44-360bfe8adc49",
+      "type": "skill_category",
+      "properties": {
+        "name": "技能要求",
+        "weight": 0.4,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.754316"
+    },
+    {
+      "id": "91d30fd6-4f97-433b-a374-a8e36530cb87",
+      "type": "skill_category",
+      "properties": {
+        "name": "编程语言",
+        "weight": 0.13333333333333333,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.757024"
+    },
+    {
+      "id": "d0e182d3-4368-41dd-8feb-34742b235a7e",
+      "type": "skill",
+      "properties": {
+        "name": "Python",
+        "required_score": 80,
+        "importance": "重要",
+        "weight": 0.06666666666666667,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.759727"
+    },
+    {
+      "id": "68dd748f-9f68-4427-879e-deb3621cc434",
+      "type": "skill",
+      "properties": {
+        "name": "Java",
+        "required_score": 70,
+        "importance": "重要",
+        "weight": 0.06666666666666667,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.761817"
+    },
+    {
+      "id": "0e2e4713-833e-489f-bf01-d23a4eab218c",
+      "type": "skill_category",
+      "properties": {
+        "name": "数据库",
+        "weight": 0.13333333333333333,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.763979"
+    },
+    {
+      "id": "050e8cf6-634c-47f0-b1f6-9429930b603a",
+      "type": "skill",
+      "properties": {
+        "name": "MySQL",
+        "required_score": 60,
+        "importance": "一般",
+        "weight": 0.13333333333333333,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.770877"
+    },
+    {
+      "id": "6fc4be21-e56e-4851-8a99-67e1f5659a69",
+      "type": "skill_category",
+      "properties": {
+        "name": "开发工具",
+        "weight": 0.13333333333333333,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.774226"
+    },
+    {
+      "id": "a9338cfc-9e60-4439-9cea-657aadc1019b",
+      "type": "skill",
+      "properties": {
+        "name": "Linux",
+        "required_score": 60,
+        "importance": "一般",
+        "weight": 0.13333333333333333,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.777562"
+    },
+    {
+      "id": "159dbe81-df4c-4d88-a800-6d32b3342ab6",
+      "type": "education",
+      "properties": {
+        "name": "本科",
+        "required_score": 60,
+        "weight": 0.15,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.779962"
+    },
+    {
+      "id": "a7043eb1-ebda-42c4-86e7-5e5a2a219f47",
+      "type": "experience",
+      "properties": {
+        "name": "工作经验要求",
+        "required_years": 2.0,
+        "required_score": 60,
+        "weight": 0.2,
+        "source": "job"
+      },
+      "created_at": "2026-04-23T22:56:51.783046"
+    }
+  ],
+  "edges": [
+    {
+      "source_id": "49376619-b68b-4d5c-b307-6a9b69c21ffa",
+      "target_id": "650bce5c-1e37-49cb-9057-43b9734f0116",
+      "type": "has_category",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.705954"
+    },
+    {
+      "source_id": "650bce5c-1e37-49cb-9057-43b9734f0116",
+      "target_id": "85851c4e-3d65-4e43-a05e-566afc9005f7",
+      "type": "has_category",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.717787"
+    },
+    {
+      "source_id": "85851c4e-3d65-4e43-a05e-566afc9005f7",
+      "target_id": "654bd3cc-7bf6-46a5-bf26-6be52d6463c1",
+      "type": "has_skill",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.719786"
+    },
+    {
+      "source_id": "85851c4e-3d65-4e43-a05e-566afc9005f7",
+      "target_id": "96c8dd56-61cb-4113-8c54-2b3e557e2158",
+      "type": "has_skill",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.720786"
+    },
+    {
+      "source_id": "650bce5c-1e37-49cb-9057-43b9734f0116",
+      "target_id": "5eebc065-2f7b-4a29-8058-b3c941b097c8",
+      "type": "has_category",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.722786"
+    },
+    {
+      "source_id": "5eebc065-2f7b-4a29-8058-b3c941b097c8",
+      "target_id": "1d03d62c-a6e9-498f-80cc-dad49acae7ac",
+      "type": "has_skill",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.724807"
+    },
+    {
+      "source_id": "650bce5c-1e37-49cb-9057-43b9734f0116",
+      "target_id": "5a533e4d-d3e6-4c8f-bfb0-573a524430a0",
+      "type": "has_category",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.729805"
+    },
+    {
+      "source_id": "5a533e4d-d3e6-4c8f-bfb0-573a524430a0",
+      "target_id": "12b5745d-ba99-49c4-9452-d68408fbdd76",
+      "type": "has_skill",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.735945"
+    },
+    {
+      "source_id": "49376619-b68b-4d5c-b307-6a9b69c21ffa",
+      "target_id": "7f9a3041-20b6-47a1-805c-ceae8a10bc5a",
+      "type": "has_education",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.737942"
+    },
+    {
+      "source_id": "49376619-b68b-4d5c-b307-6a9b69c21ffa",
+      "target_id": "d57097db-1658-4279-8c7f-8ffd49fbde7e",
+      "type": "has_experience",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.740335"
+    },
+    {
+      "source_id": "49376619-b68b-4d5c-b307-6a9b69c21ffa",
+      "target_id": "e49f54ae-300a-4c7c-a680-220ef6ee1d3e",
+      "type": "has_project",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.745003"
+    },
+    {
+      "source_id": "e49f54ae-300a-4c7c-a680-220ef6ee1d3e",
+      "target_id": "09889d66-8269-4f59-94a6-a4d91d235bf8",
+      "type": "has_project",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.747010"
+    },
+    {
+      "source_id": "49376619-b68b-4d5c-b307-6a9b69c21ffa",
+      "target_id": "cef4944a-d64b-4e99-8337-3ed7bef0cd2d",
+      "type": "has_language",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.749792"
+    },
+    {
+      "source_id": "cef4944a-d64b-4e99-8337-3ed7bef0cd2d",
+      "target_id": "eaf2e178-eac0-4b56-af7c-d9cda053f5b9",
+      "type": "has_language",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.751315"
+    },
+    {
+      "source_id": "0ca24430-8e7a-4451-bae6-295ecd577a64",
+      "target_id": "cc2a6bb8-c58c-4607-bf44-360bfe8adc49",
+      "type": "has_category",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.755336"
+    },
+    {
+      "source_id": "cc2a6bb8-c58c-4607-bf44-360bfe8adc49",
+      "target_id": "91d30fd6-4f97-433b-a374-a8e36530cb87",
+      "type": "has_category",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.758533"
+    },
+    {
+      "source_id": "91d30fd6-4f97-433b-a374-a8e36530cb87",
+      "target_id": "d0e182d3-4368-41dd-8feb-34742b235a7e",
+      "type": "has_skill",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.760752"
+    },
+    {
+      "source_id": "91d30fd6-4f97-433b-a374-a8e36530cb87",
+      "target_id": "68dd748f-9f68-4427-879e-deb3621cc434",
+      "type": "has_skill",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.762866"
+    },
+    {
+      "source_id": "cc2a6bb8-c58c-4607-bf44-360bfe8adc49",
+      "target_id": "0e2e4713-833e-489f-bf01-d23a4eab218c",
+      "type": "has_category",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.769613"
+    },
+    {
+      "source_id": "0e2e4713-833e-489f-bf01-d23a4eab218c",
+      "target_id": "050e8cf6-634c-47f0-b1f6-9429930b603a",
+      "type": "has_skill",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.771388"
+    },
+    {
+      "source_id": "cc2a6bb8-c58c-4607-bf44-360bfe8adc49",
+      "target_id": "6fc4be21-e56e-4851-8a99-67e1f5659a69",
+      "type": "has_category",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.776228"
+    },
+    {
+      "source_id": "6fc4be21-e56e-4851-8a99-67e1f5659a69",
+      "target_id": "a9338cfc-9e60-4439-9cea-657aadc1019b",
+      "type": "has_skill",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.778434"
+    },
+    {
+      "source_id": "0ca24430-8e7a-4451-bae6-295ecd577a64",
+      "target_id": "159dbe81-df4c-4d88-a800-6d32b3342ab6",
+      "type": "has_education",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.780968"
+    },
+    {
+      "source_id": "0ca24430-8e7a-4451-bae6-295ecd577a64",
+      "target_id": "a7043eb1-ebda-42c4-86e7-5e5a2a219f47",
+      "type": "has_experience",
+      "properties": {},
+      "created_at": "2026-04-23T22:56:51.785046"
+    }
+  ]
+}
